@@ -1,0 +1,16 @@
+@media (min-width: 768px) {
+    .d-md-table-header-group {
+      display: table-header-group !important;
+    }
+  }
+  
+  .tableblock{
+      font-family: 'Courier New', Courier, monospace;
+  }
+  .tble {
+    
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid black !important;
+
+  }
